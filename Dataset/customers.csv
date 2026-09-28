@@ -1,0 +1,101 @@
+customer_id,customer_name,city,state,segment,email
+C00001,Customer 1,Nashik,Delhi,Home Office,customer1@example.com
+C00002,Customer 2,Thane,Maharashtra,Consumer,customer2@example.com
+C00003,Customer 3,Delhi,Maharashtra,Corporate,customer3@example.com
+C00004,Customer 4,Thane,Delhi,Consumer,customer4@example.com
+C00005,Customer 5,Thane,Delhi,Consumer,customer5@example.com
+C00006,Customer 6,Pune,Delhi,Home Office,customer6@example.com
+C00007,Customer 7,Delhi,Maharashtra,Corporate,customer7@example.com
+C00008,Customer 8,Delhi,Delhi,Home Office,customer8@example.com
+C00009,Customer 9,Delhi,Maharashtra,Home Office,customer9@example.com
+C00010,Customer 10,Thane,Maharashtra,Corporate,customer10@example.com
+C00011,Customer 11,Nashik,Delhi,Consumer,customer11@example.com
+C00012,Customer 12,Delhi,Delhi,Consumer,customer12@example.com
+C00013,Customer 13,Thane,Maharashtra,Corporate,customer13@example.com
+C00014,Customer 14,Pune,Maharashtra,Consumer,customer14@example.com
+C00015,Customer 15,Nashik,Delhi,Corporate,customer15@example.com
+C00016,Customer 16,Pune,Delhi,Corporate,customer16@example.com
+C00017,Customer 17,Nashik,Delhi,Home Office,customer17@example.com
+C00018,Customer 18,Thane,Maharashtra,Corporate,customer18@example.com
+C00019,Customer 19,Mumbai,Maharashtra,Home Office,customer19@example.com
+C00020,Customer 20,Nashik,Maharashtra,Consumer,customer20@example.com
+C00021,Customer 21,Pune,Maharashtra,Consumer,customer21@example.com
+C00022,Customer 22,Thane,Maharashtra,Consumer,customer22@example.com
+C00023,Customer 23,Nashik,Maharashtra,Consumer,customer23@example.com
+C00024,Customer 24,Mumbai,Delhi,Home Office,customer24@example.com
+C00025,Customer 25,Mumbai,Maharashtra,Consumer,customer25@example.com
+C00026,Customer 26,Delhi,Maharashtra,Corporate,customer26@example.com
+C00027,Customer 27,Delhi,Maharashtra,Corporate,customer27@example.com
+C00028,Customer 28,Pune,Delhi,Corporate,customer28@example.com
+C00029,Customer 29,Nashik,Maharashtra,Home Office,customer29@example.com
+C00030,Customer 30,Nashik,Maharashtra,Consumer,customer30@example.com
+C00031,Customer 31,Delhi,Delhi,Consumer,customer31@example.com
+C00032,Customer 32,Nashik,Maharashtra,Consumer,customer32@example.com
+C00033,Customer 33,Nashik,Maharashtra,Home Office,customer33@example.com
+C00034,Customer 34,Mumbai,Maharashtra,Corporate,customer34@example.com
+C00035,Customer 35,Delhi,Maharashtra,Corporate,customer35@example.com
+C00036,Customer 36,Thane,Maharashtra,Consumer,customer36@example.com
+C00037,Customer 37,Delhi,Delhi,Corporate,customer37@example.com
+C00038,Customer 38,Thane,Delhi,Corporate,customer38@example.com
+C00039,Customer 39,Mumbai,Delhi,Home Office,customer39@example.com
+C00040,Customer 40,Pune,Maharashtra,Home Office,customer40@example.com
+C00041,Customer 41,Nashik,Maharashtra,Home Office,customer41@example.com
+C00042,Customer 42,Mumbai,Maharashtra,Home Office,customer42@example.com
+C00043,Customer 43,Nashik,Delhi,Consumer,customer43@example.com
+C00044,Customer 44,Pune,Maharashtra,Home Office,customer44@example.com
+C00045,Customer 45,Pune,Maharashtra,Corporate,customer45@example.com
+C00046,Customer 46,Mumbai,Delhi,Consumer,customer46@example.com
+C00047,Customer 47,Pune,Maharashtra,Corporate,customer47@example.com
+C00048,Customer 48,Thane,Delhi,Corporate,customer48@example.com
+C00049,Customer 49,Pune,Delhi,Corporate,customer49@example.com
+C00050,Customer 50,Nashik,Delhi,Home Office,customer50@example.com
+C00051,Customer 51,Nashik,Maharashtra,Home Office,customer51@example.com
+C00052,Customer 52,Nashik,Maharashtra,Consumer,customer52@example.com
+C00053,Customer 53,Nashik,Maharashtra,Consumer,customer53@example.com
+C00054,Customer 54,Thane,Maharashtra,Home Office,customer54@example.com
+C00055,Customer 55,Delhi,Maharashtra,Corporate,customer55@example.com
+C00056,Customer 56,Mumbai,Maharashtra,Consumer,customer56@example.com
+C00057,Customer 57,Nashik,Maharashtra,Home Office,customer57@example.com
+C00058,Customer 58,Pune,Delhi,Home Office,customer58@example.com
+C00059,Customer 59,Nashik,Maharashtra,Home Office,customer59@example.com
+C00060,Customer 60,Pune,Delhi,Corporate,customer60@example.com
+C00061,Customer 61,Pune,Maharashtra,Home Office,customer61@example.com
+C00062,Customer 62,Nashik,Maharashtra,Home Office,customer62@example.com
+C00063,Customer 63,Thane,Maharashtra,Home Office,customer63@example.com
+C00064,Customer 64,Pune,Delhi,Home Office,customer64@example.com
+C00065,Customer 65,Pune,Delhi,Consumer,customer65@example.com
+C00066,Customer 66,Nashik,Delhi,Consumer,customer66@example.com
+C00067,Customer 67,Pune,Delhi,Home Office,customer67@example.com
+C00068,Customer 68,Pune,Maharashtra,Corporate,customer68@example.com
+C00069,Customer 69,Nashik,Delhi,Consumer,customer69@example.com
+C00070,Customer 70,Nashik,Maharashtra,Home Office,customer70@example.com
+C00071,Customer 71,Mumbai,Maharashtra,Consumer,customer71@example.com
+C00072,Customer 72,Thane,Delhi,Consumer,customer72@example.com
+C00073,Customer 73,Thane,Delhi,Corporate,customer73@example.com
+C00074,Customer 74,Pune,Delhi,Home Office,customer74@example.com
+C00075,Customer 75,Thane,Delhi,Home Office,customer75@example.com
+C00076,Customer 76,Pune,Delhi,Corporate,customer76@example.com
+C00077,Customer 77,Mumbai,Delhi,Corporate,customer77@example.com
+C00078,Customer 78,Nashik,Delhi,Home Office,customer78@example.com
+C00079,Customer 79,Nashik,Delhi,Home Office,customer79@example.com
+C00080,Customer 80,Nashik,Maharashtra,Corporate,customer80@example.com
+C00081,Customer 81,Thane,Delhi,Consumer,customer81@example.com
+C00082,Customer 82,Mumbai,Delhi,Consumer,customer82@example.com
+C00083,Customer 83,Thane,Maharashtra,Corporate,customer83@example.com
+C00084,Customer 84,Thane,Delhi,Consumer,customer84@example.com
+C00085,Customer 85,Mumbai,Maharashtra,Corporate,customer85@example.com
+C00086,Customer 86,Mumbai,Maharashtra,Consumer,customer86@example.com
+C00087,Customer 87,Mumbai,Delhi,Consumer,customer87@example.com
+C00088,Customer 88,Mumbai,Maharashtra,Home Office,customer88@example.com
+C00089,Customer 89,Nashik,Maharashtra,Home Office,customer89@example.com
+C00090,Customer 90,Delhi,Maharashtra,Consumer,customer90@example.com
+C00091,Customer 91,Delhi,Maharashtra,Consumer,customer91@example.com
+C00092,Customer 92,Mumbai,Delhi,Home Office,customer92@example.com
+C00093,Customer 93,Delhi,Maharashtra,Home Office,customer93@example.com
+C00094,Customer 94,Delhi,Delhi,Home Office,customer94@example.com
+C00095,Customer 95,Mumbai,Maharashtra,Corporate,customer95@example.com
+C00096,Customer 96,Delhi,Maharashtra,Consumer,customer96@example.com
+C00097,Customer 97,Thane,Maharashtra,Home Office,customer97@example.com
+C00098,Customer 98,Pune,Maharashtra,Consumer,customer98@example.com
+C00099,Customer 99,Pune,Delhi,Corporate,customer99@example.com
+C00100,Customer 100,Mumbai,Delhi,Corporate,customer100@example.com
